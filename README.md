@@ -32,7 +32,7 @@
 
 <h3 align="left">👽 Visitors</h3>
 
-Counting of visitors to this page in this section started from Jun 26, 2024
+Counting of visitors to this page in this section started from Jan 26, 2024
 
 <img src="https://count.getloli.com/get/@8210182092.github.readme?theme=rule34" alt="Visitors" />
 
